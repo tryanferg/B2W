@@ -146,6 +146,16 @@ section h3{
 
 }
 
-#optin p{
+#optin p {
     margin: 7px 0 0;
+}
+
+#who-benefits {
+    background: white;
+}
+
+#course-features {
+    background: #3e4249;
+    color: white;
+    text-align: center;
 }
